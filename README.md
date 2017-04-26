@@ -1,2 +1,2 @@
-# Sil-API-Gateway
+# API-Gateway
 API Gateway
